@@ -25,7 +25,7 @@
     <tr>
       <td><img src="https://github.com/user-attachments/assets/652ac157-7c5a-482e-bd21-40370e4fee11" width="50" height="50"></td>
       <td>유진우</td>
-      <td>AI 개발 및 서버/데이터베이스 관리, 성능 최적화를 맡고 있습니다.</td>
+      <td>AI 개발 및 백엔드 서버/데이터베이스 관리, 성능 최적화를 맡고 있습니다.</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/f910e51a-038e-4bd7-b7f3-4cbac979ccf6" width="45" height="45"></td>
